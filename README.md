@@ -13,6 +13,8 @@ These are the settings used for the PAX1000 Polarimeter:
 - **Wavelength**: 532 nm
 - **Basic Sample Rate**: 250 Hz
 
-### Beam Profiler
+### BC207VIS Beam Profiler
 
 To use this Beam Profiler use [this](https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=Beam) software.
+
+
