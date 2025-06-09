@@ -7,4 +7,12 @@ This project provides tools for analyzing and profiling collimators using a pola
 
 ### PAX1000 Polarimeter
 
-To use this Polarimeter use (this [link](https://example.com/pax1000-polarimeter))
+To use this Polarimeter use [this](https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=PAX1000x) software.
+
+These are the settings used for the PAX1000 Polarimeter:
+- **Wavelength**: 532 nm
+- **Basic Sample Rate**: 250 Hz
+
+### Beam Profiler
+
+To use this Beam Profiler use [this](https://www.thorlabs.com/software_pages/viewsoftwarepage.cfm?code=Beam) software.
